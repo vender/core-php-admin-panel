@@ -1,3 +1,4 @@
 ./config
 .phpintel
 .idea
+config/config.php
